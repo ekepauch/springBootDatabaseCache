@@ -1,6 +1,10 @@
 
-Xsquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Ø›óÀøÿÿÿÿ
-Usquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(‚ôø§
-_squid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÈÒñ¼
-bsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¹¥Ø‹şÿÿÿÿ
-csquid:S4488"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(®ğÀí
+bsquid:S3457"AFormat specifiers should be used instead of string concatenation.(ƒÌ›ıÿÿÿÿ8¼’®ß.
+Ksquid:S00108")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8Ûá’®ß.
+isquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¹¥Ø‹şÿÿÿÿ8¢£æ«ß.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï†Ê¿şÿÿÿÿ8¶á‘®ß.
+fsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÈÒñ¼8¢£æ«ß.
+\squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(‚ôø§8¢£æ«ß.
+jsquid:S4488"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(®ğÀí8¢£æ«ß.
+_squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Ø›óÀøÿÿÿÿ8¢£æ«ß.
