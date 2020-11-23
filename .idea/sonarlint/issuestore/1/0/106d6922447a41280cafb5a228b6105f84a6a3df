@@ -1,0 +1,6 @@
+
+Xsquid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(Ø›óÀøÿÿÿÿ
+Usquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(‚ôø§
+_squid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÈÒñ¼
+bsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¹¥Ø‹þÿÿÿÿ
+csquid:S4488"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(®ðÀí
